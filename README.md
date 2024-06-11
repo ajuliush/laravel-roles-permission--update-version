@@ -1,0 +1,12 @@
+## Installation
+-   `https://github.com/ajuliush/laravel-permission.git`
+-   `cd laravel-permission/`
+-   `composer install`
+-   `cp .env.example .env`
+-   Update `.env` and set your database credentials
+-   `php artisan key:generate`
+-   `php artisan migrate:fresh --seed`
+-   `npm install`
+-   `npm run dev`
+-   `npm run build`
+-   `php artisan serve`
